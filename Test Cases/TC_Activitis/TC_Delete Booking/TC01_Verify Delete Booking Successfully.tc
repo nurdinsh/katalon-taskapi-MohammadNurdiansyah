@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Delete Booking Successfully</description>
+   <name>TC01_Verify Delete Booking Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76f66de2-973b-4126-acd8-4e1ae43acd2e</testCaseGuid>
+</TestCaseEntity>

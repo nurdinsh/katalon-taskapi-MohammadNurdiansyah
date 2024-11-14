@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Update Booking faild</description>
+   <name>TC02_Verify Update Booking faild</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6f1bef3-1be2-4bf8-8e80-db5f8a7e0d32</testCaseGuid>
+</TestCaseEntity>

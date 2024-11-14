@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update Booking</description>
+   <name>Update Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b50a5ef-6538-4476-98e2-13c0692d0955</testCaseGuid>
+</TestCaseEntity>

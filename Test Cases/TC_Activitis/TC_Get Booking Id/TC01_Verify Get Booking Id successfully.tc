@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Get Booking Id successfully</description>
+   <name>TC01_Verify Get Booking Id successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b31cbe1-b29b-4938-8c10-3c10139e1f0a</testCaseGuid>
+</TestCaseEntity>

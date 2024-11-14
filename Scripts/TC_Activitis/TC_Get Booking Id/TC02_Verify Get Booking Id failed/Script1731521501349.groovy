@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Block/Create Booking'), [:], FailureHandling.STOP_ON_FAILURE)
+
+'step 1'
+BookingIdResponse = WS.sendRequest(findTestObject('Booking/Get_ Booking_Id'))
+
+'step 2'
+WS.verifyResponseStatusCode(BookingIdResponse, 200)
+

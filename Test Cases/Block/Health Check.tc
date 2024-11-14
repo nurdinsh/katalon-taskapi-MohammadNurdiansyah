@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Health Check</description>
+   <name>Health Check</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7476847f-4d25-4c06-bc12-edc55aefeb5d</testCaseGuid>
+</TestCaseEntity>

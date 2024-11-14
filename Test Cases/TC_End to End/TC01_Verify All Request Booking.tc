@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify All Request Booking</description>
+   <name>TC01_Verify All Request Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f97801ba-90a0-438b-bb70-d6d46d432fb9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51b0feda-7bc3-4cce-b108-112319a16f90</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>532756c3-c00e-4e16-aef5-b33d20e83870</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.Token</defaultValue>
+      <description></description>
+      <id>51b0feda-7bc3-4cce-b108-112319a16f90</id>
+      <masked>false</masked>
+      <name>Token_Response</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Id</defaultValue>
+      <description></description>
+      <id>532756c3-c00e-4e16-aef5-b33d20e83870</id>
+      <masked>false</masked>
+      <name>ID_respone</name>
+   </variable>
+</TestCaseEntity>

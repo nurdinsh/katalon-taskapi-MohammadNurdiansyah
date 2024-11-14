@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Partial Update Successfully</description>
+   <name>TC01_Verify Partial Update Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>440128f0-e0c0-4e04-9e72-8f467205f825</testCaseGuid>
+</TestCaseEntity>

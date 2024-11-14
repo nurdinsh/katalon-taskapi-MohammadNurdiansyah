@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>New Test Case (1)</name>
+   <description>Create Token</description>
+   <name>Create Token</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>506f70b0-372e-4980-881e-fd2d03cf3c70</testCaseGuid>
+   <testCaseGuid>f9847072-6e36-4d91-9752-a54fdf3c2009</testCaseGuid>
 </TestCaseEntity>
